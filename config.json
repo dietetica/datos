@@ -1,0 +1,5 @@
+{
+  "pedidoMinimo": 5000,
+  "costoEnvio": 5000,
+  "envioGratisDesde": 12000
+}
