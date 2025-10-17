@@ -130,8 +130,8 @@ MIEL_03,Miel fraccionada,,no,0,el kg,100g:0|250g:0|500g:0|1kg:0|2kg:0|3kg:0|4kg:
 MIEL_04,Miel líquida,Marca De Los Arroyos,sí,4100,el frasco de 500g,1 frasco de 500g:4100|2 frascos de 500g:8200|3 frascos de 500g:12300|4 frascos de 500g:16400|5 frascos de 500g:20500|6 frascos de 500g:24600|7 frascos de 500g:28700|8 frascos de 500g:32800|9 frascos de 500g:36900|10 frascos de 500g:41000,https://lh3.googleusercontent.com/d/1SlWdNq_sdxoU9hgehrAPS2JRS-f3pc3V,no,sin TACC|miel
 MIEL_05,Mentomiel,Miel con menta. Marca Apidelta,sí,3800,el frasco de 240g,1 frasco de 240g:3800|2 frascos de 240g:7600|3 frascos de 240g:11400|4 frascos de 240g:15200|5 frascos de 240g:19000|6 frascos de 240g:22800|7 frascos de 240g:26600|8 frascos de 240g:30400|9 frascos de 240g:34200|10 frascos de 240g:38000,https://lh3.googleusercontent.com/d/1w66OfSAvqJ7U0wIcOtatvaYGONCeu_zJ,no,miel
 MIJO_00,Semillas de Mijo,,sí,2700,el kg,100g:270|250g:675|500g:1350|1kg:2700|2kg:5400|3kg:8100|4kg:10800|5kg:13500,https://lh3.googleusercontent.com/d/1SyJ427EfugmNZARcy4XNmRNT-SjYKsJ_,no,cereales
-MIXF_00,Mix de frutos secos con pasas,,no,1500,los 100g,100g:1470|250g:3675|500g:7350|1kg:14700|2kg:29400|3kg:44100|4kg:58800|5kg:73500,,no,novedades|frutos secos|snacks|vegano
-MIXF_01,Mix de frutos secos sin pasas,,no,0,los 100g,100g:0|250g:0|500g:0|1kg:0|2kg:0|3kg:0|4kg:0|5kg:0,,no,novedades|frutos secos|snacks|vegano
+MIXF_00,Mix de frutos secos con pasas,,sí,1500,los 100g,100g:1470|250g:3675|500g:7350|1kg:14700|2kg:29400|3kg:44100|4kg:58800|5kg:73500,https://lh3.googleusercontent.com/d/17sRN1Y7HkOw3e0mpst3FYBDPs0QMy_K8,no,novedades|frutos secos|snacks|vegano
+MIXF_01,Mix de frutos secos sin pasas,,sí,0,los 100g,100g:0|250g:0|500g:0|1kg:0|2kg:0|3kg:0|4kg:0|5kg:0,,no,novedades|frutos secos|snacks|vegano
 NUEM_00,Nuez moscada,,sí,900,los 25g,100g:3790|250g:9475|500g:18950|1kg:37900|2kg:75800|3kg:113700|4kg:151600|5kg:189500,https://lh3.googleusercontent.com/d/1syV9d0vZ-JC2SAz3EhDMKBBc9m0UefQu,no,especias
 NUEZ_00,Nuez mariposa,Extra Light,sí,1800,los 100g,100g:1790|250g:4475|500g:8950|1kg:17900|2kg:35800|3kg:53700|4kg:71600|5kg:89500,https://lh3.googleusercontent.com/d/1o__FuUFhxEm89qghVaxC_aCpzHpSqLnM,no,frutos secos
 NUEZ_01,Nuez pecán,,sí,2500,los 100g,100g:2460|250g:6150|500g:12300|1kg:24600|2kg:49200|3kg:73800|4kg:98400|5kg:123000,https://lh3.googleusercontent.com/d/1m_Gayo130fpGguTve83x8SZhnbtICVeI,no,frutos secos
@@ -221,6 +221,6 @@ ACEI_10,Aceite de sésamo,,no,0,la botella de 250ml,1 botella de 250ml:0|2 botel
 AVEL_01,Avellanas con chocolate,,no,2900,los 100g,100g:2880|250g:7200|500g:14400|1kg:28800|2kg:57600|3kg:86400|4kg:115200|5kg:144000,,no,frutos secos|snacks|chocolate
 SEMI_08,Semillas ,,sí,800,los 100g,100g:760|250g:1900|500g:3800|1kg:7600|2kg:15200|3kg:22800|4kg:30400|5kg:38000,,no,
 YERB_05,Yerba Kalena,Agroecológica,sí,3900,el paquete de 1/2kg,1 paquete de 1/2kg:3900|2 paquetes de 1/2kg:7800|3 paquetes de 1/2kg:11700|4 paquetes de 1/2kg:15600|5 paquetes de 1/2kg:19500|6 paquetes de 1/2kg:23400|7 paquetes de 1/2kg:27300|8 paquetes de 1/2kg:31200|9 paquetes de 1/2kg:35100|10 paquetes de 1/2kg:39000,,no,
-PASA_03,,,sí,600,los 100g,250g:1550|500g:3100|1kg:6200|2kg:12400|3kg:18600|4kg:24800|5kg:31000,,no,
+PASA_03,,,sí,1600,los 250g,250g:1550|500g:3100|1kg:6200|2kg:12400|3kg:18600|4kg:24800|5kg:31000,,no,
 SEMI_09,Psyllium en polvo,De semilla entera. ¡Molida en el momento!,sí,3800,los 100g,100g:3770|250g:9425|500g:18850|1kg:37700|2kg:75400|3kg:113100|4kg:150800|5kg:188500,,no,
 COPO_00,,,sí,1200,los 250g,250g:1225|500g:2450|1kg:4900|2kg:9800|3kg:14700|4kg:19600|5kg:24500,,no,
