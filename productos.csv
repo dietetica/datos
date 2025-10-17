@@ -219,8 +219,8 @@ LEVE_00,Levadura seca instantánea LEVEX,Para pizzas; pan y masas dulces. Son 2 
 ACEI_09,Aceite de nuéz pecán,,no,0,la botella de 500ml,1 botella de 500ml:0|2 botellas de 500ml:0|3 botellas de 500ml:0|4 botellas de 500ml:0|5 botellas de 500ml:0|6 botellas de 500ml:0|7 botellas de 500ml:0|8 botellas de 500ml:0|9 botellas de 500ml:0|10 botellas de 500ml:0,,no,aceite|agroecológico
 ACEI_10,Aceite de sésamo,,no,0,la botella de 250ml,1 botella de 250ml:0|2 botellas de 250ml:0|3 botellas de 250ml:0|4 botellas de 250ml:0|5 botellas de 250ml:0|6 botellas de 250ml:0|7 botellas de 250ml:0|8 botellas de 250ml:0|9 botellas de 250ml:0|10 botellas de 250ml:0,,no,aceite|suplementos|especias
 AVEL_01,Avellanas con chocolate,,no,0,los 100g,100g:0|250g:0|500g:0|1kg:0|2kg:0|3kg:0|4kg:0|5kg:0,,no,frutos secos|snacks|chocolate
-SEMI_08,Semillas ,,sí,,,,,no,
-YERB_05,Yerba Kalena,Agroecológica,sí,,,,,no,
-PASA_03,,,sí,,,,,no,
-SEMI_09,Psyllium en polvo,De semilla entera. ¡Molida en el momento!,sí,,,,,no,
-COPO_00,,,sí,,,,,no,
+SEMI_08,Semillas ,,sí,,los 100g,,,no,
+YERB_05,Yerba Kalena,Agroecológica,sí,,el paquete,,,no,
+PASA_03,,,sí,,el paquete,,,no,
+SEMI_09,Psyllium en polvo,De semilla entera. ¡Molida en el momento!,sí,,el paquete,,,no,
+COPO_00,,,sí,,el paquete,,,no,
